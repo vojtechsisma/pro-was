@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sisma_vojtech">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/sisma_vojtech_jar/sisma_vojtech.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
